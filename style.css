@@ -1,0 +1,30 @@
+#gridbox{
+    display: grid;
+    border: 5px solid bisque;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 20vh 60vh 20vh;
+    gap: 5px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+h1{
+    text-align: center;
+    align-items: center;
+}
+img{
+    max-height: 110px;
+    margin-left: 20px;
+}
+.borderallt{
+    border: 5px solid bisque;
+}
+h3{
+    text-align: center;
+}
+.align{
+    text-align: center;
+    align-items: center;
+}
+main{
+    text-align: center;
+}
